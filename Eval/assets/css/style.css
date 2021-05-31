@@ -372,6 +372,10 @@
     .car__description2 {
         font-size: 0.9vh;
     }
+
+    .car__title {
+        font-size: 0.9vh;
+    }
 }
 
 @media(max-width:420px) {
